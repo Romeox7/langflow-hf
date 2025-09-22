@@ -1,2 +1,3 @@
 langflow
-streamlit
+PyPDF2      # for PDFLoader
+pytesseract # for image OCR
